@@ -1,4 +1,4 @@
-// This is the firstname of the user */
+// This is the firstname of the user
 
 const user = "John";
 
